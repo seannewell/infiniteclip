@@ -1,0 +1,20 @@
+
+body {
+  background-color: lightblue;
+}
+
+.center {
+  color: black;
+  font-family: Courier;
+  letter-spacing: 8px;
+  margin: auto;
+  text-align: center;
+  /*width: 66%;*/
+}
+
+.center h1 {
+  font-size: 40px;
+}
+.center label {
+  letter-spacing: 0px;
+}
